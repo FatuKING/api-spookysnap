@@ -2,6 +2,8 @@ import cors from 'cors'
 
 const ACCEPTED_ORIGINS = [
   'https://spookysnap.netlify.app',
+  'https://spookysnap.netlify.app/monster',
+  'https://spookysnap.netlify.app/creatercart',
   'http://localhost:5173'
 ]
 
